@@ -306,7 +306,14 @@ main {
   min-width: 259px;
 }
 
-
+.grid-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+}
+.grid-container > li {
+        margin-bottom: 16px;
+        min-width: 100%;
+}
 
 
 
