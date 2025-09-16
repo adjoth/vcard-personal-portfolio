@@ -1,4 +1,19 @@
-# vCard - Personal portfolio
+# Information
+
+## Original Template
+Created by: codewithsadee_
+
+Modified by: Adam Thomas
+
+Last Updated: 09/15/25
+
+## Additional Info
+
+Created to serve as a portfolio for job hunting.
+
+# Template Origin README.md
+
+## vCard - Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
@@ -8,18 +23,18 @@
 
 vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-## Demo
+### Demo
 
 ![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
 ![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-## Prerequisites
+### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
+### Installing vCard
 
 To install **vCard**, follow these steps:
 
@@ -35,10 +50,10 @@ Windows:
 git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 ```
 
-## Contact
+### Contact
 
 If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
 
-## License
+### License
 
 MIT
