@@ -10,6 +10,7 @@ Last Updated: 09/15/25
 ## Additional Info
 
 Created to serve as a portfolio for job hunting.
+Makes use of [ionic](https://ionic.io/ionicons) for website icons.
 
 # Template Origin README.md
 
